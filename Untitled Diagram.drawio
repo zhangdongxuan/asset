@@ -1,35 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T07:20:07.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="f_O91-n0F8ST8vcgbtVW" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T12:43:14.829Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="5buzpSvGNf04CGdmEkm8" version="16.2.4" type="github">
   <diagram id="RRx896oevRS4okK73JQX" name="Page-1">
     <mxGraphModel dx="2452" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yuelH2UT8dOYtKZug0pv-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="470" width="120" height="80" as="geometry" />
+        <mxCell id="PfznWHqxb57UuzOxslOH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="PfznWHqxb57UuzOxslOH-1" target="PfznWHqxb57UuzOxslOH-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuelH2UT8dOYtKZug0pv-2" value="Test" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="PfznWHqxb57UuzOxslOH-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;stop 时不能立即 stop recog&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="230" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yuelH2UT8dOYtKZug0pv-3" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yuelH2UT8dOYtKZug0pv-4" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.loud_callout" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yuelH2UT8dOYtKZug0pv-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
-          <mxGeometry x="-110" y="530" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="yuelH2UT8dOYtKZug0pv-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="10" y="340" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="yuelH2UT8dOYtKZug0pv-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="780" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yuelH2UT8dOYtKZug0pv-8" value="Control Object" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="830" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yuelH2UT8dOYtKZug0pv-9" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="140" width="80" height="30" as="geometry" />
+        <mxCell id="PfznWHqxb57UuzOxslOH-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;离开耳朵的时候才能变亮&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="230" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
